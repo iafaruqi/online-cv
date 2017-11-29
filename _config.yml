@@ -13,7 +13,6 @@ style: styles-2
 
 
 #Profile information
-name:Faruqi
 tagline: Machine Intelligence Explorer
 pic: finaldp.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
